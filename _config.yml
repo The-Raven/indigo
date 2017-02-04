@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: The-Raven.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,8 +35,8 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: 
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
